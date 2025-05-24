@@ -1,0 +1,38 @@
+# Compiled C++ files
+*.o
+*.out
+*.exe
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+*.egg-info/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Other files
+*.DS_Store
+*.class
+
+# helpers folders
+.rcph/
