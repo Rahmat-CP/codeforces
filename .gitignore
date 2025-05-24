@@ -34,5 +34,8 @@ ENV/
 *.DS_Store
 *.class
 
+# templates
+template.cpp
+
 # helpers folders
 .rcph/
